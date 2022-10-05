@@ -47,3 +47,5 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir-Murashka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📲 Projects recommended for viewing :
+[![cardsAR Badge](https://img.shields.io/badge/cardsAR-orange?style=flat&)](https://github.com/Vladimir-Murashka/cardsAR)
