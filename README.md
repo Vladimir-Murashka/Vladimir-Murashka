@@ -51,3 +51,4 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   
 ### 📲 Projects recommended for viewing :
 [![cardsAR Badge](https://img.shields.io/badge/cardsAR-orange?style=flat&)](https://github.com/Vladimir-Murashka/cardsAR)
+[![PersonalQuiz Badge](https://img.shields.io/badge/PersonalQuiz-orange?style=flat&)](https://github.com/Vladimir-Murashka/PersonalQuiz)
