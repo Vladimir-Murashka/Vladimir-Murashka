@@ -50,6 +50,7 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---  
   
 ### 📲 Projects recommended for viewing :
+[![FoodDelivery Badge](https://img.shields.io/badge/FoodDelivery-orange?style=flat&)](https://github.com/Vladimir-Murashka/FoodDelivery)
 [![ARHitBalls Badge](https://img.shields.io/badge/ARHitBalls-orange?style=flat&)](https://github.com/Vladimir-Murashka/ARHitBalls)
 [![cardsAR Badge](https://img.shields.io/badge/cardsAR-orange?style=flat&)](https://github.com/Vladimir-Murashka/cardsAR)
 [![PersonalQuiz Badge](https://img.shields.io/badge/PersonalQuiz-orange?style=flat&)](https://github.com/Vladimir-Murashka/PersonalQuiz)
